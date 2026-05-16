@@ -72,8 +72,6 @@ RegisterNumber:  212225232079
 
 ![alt text](ml11.2.png)
 
-![alt text](ml11.3.png)
-
 ![alt text](ml11.4.png)
 
 ![alt text](ml11.5.png)
